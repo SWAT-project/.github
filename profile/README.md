@@ -1,0 +1,1 @@
+Visit https://swat-project.github.io/docs/ for the documentation of the SWAT project.
